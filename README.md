@@ -1,5 +1,16 @@
+------------------------------------------------------------------------------------------------------------------------------------
 # Inventory Management System
+------------------------------------------------------------------------------------------------------------------------------------
+## Question ##
 
+1. **Inventory Management System with Git**
+   
+a) Design a system to manage products for a store. Customers can make purchases, and
+sellers can update the list of products.
+
+b) Use Git for version control, and maintain a purchase history of items.
+
+----------------------------------------------------------------------------------------------------------------------------------------
 ## Overview
 
 This Inventory Management System allows product managers to manage products and customers to purchase items. The system is built using Python and SQLite for the database, and it is designed to be run on a server accessed via Putty. 
